@@ -1,0 +1,12 @@
+{
+  "name": "gc-deployer-git",
+  "version": "1.0.0",
+  "main": ./"lib/index.js",
+  "repository": "git@github.com:gui-che/deployer-git.git",
+  "author": "洪小迪 <hongxiaodi398@pingan.com.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "hexo-deployer-git": "^1.0.0",
+    "swig": "^1.4.2"
+  }
+}
