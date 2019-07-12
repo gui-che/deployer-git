@@ -38,3 +38,6 @@ deploy(componentsParams);
 ```bash
 node index.js
 ```
+# 1.0.2
+
+修复不自动提交的bug
